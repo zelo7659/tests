@@ -1,2 +1,1 @@
-{"ip1":"4.0.4", "notes":"Small typo fixes"}
-{"ip2":"140.82.2.84"}
+{"version":"4.0.4", "notes":"Small typo fixes"}
